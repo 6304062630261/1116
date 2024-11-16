@@ -35,6 +35,7 @@ android {
     dependencies {
         implementation platform('com.google.firebase:firebase-bom:32.1.1') // ตรวจสอบว่า BOM ถูกเพิ่ม
         implementation 'com.google.firebase:firebase-analytics'
+
         // เพิ่ม Firebase dependencies อื่น ๆ ตามที่ต้องการ
     }
     apply plugin: 'com.google.gms.google-services'
