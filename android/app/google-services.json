@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147674813724",
+    "project_id": "vongola-c65ab",
+    "storage_bucket": "vongola-c65ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147674813724:android:376261f320f23af38d16d9",
+        "android_client_info": {
+          "package_name": "com.example.vongola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JK3vRWsqv6UX7zi2C0jcp4ZbBI53ZlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
